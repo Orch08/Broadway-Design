@@ -3,7 +3,7 @@ html {
   text-align: center;
 }
 header {
-  background-image: url(file:///Users/johngoliats/Desktop/Privat/Koda/Projects/Broadway%20Design/Resources/Images/the-flatiron-building.png)
+  background-image: url(file:///Users/johngoliats/Desktop/Privat/Koda/Projects/BroadwayDesign/Resources/Images/the-flatiron-building.png)
 }
 h1 {
   font-size: 70px;
@@ -13,4 +13,16 @@ h1 {
 .top-menu {
   font-size: 18px;
   color: white;
+}
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(file:///Users/johngoliats/Desktop/Privat/Koda/Projects/BroadwayDesign/Resources/Images/the-flatiron-building.png);
+}
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
