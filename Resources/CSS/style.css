@@ -21,8 +21,14 @@ h4 {
   background-image: url(file:///Users/johngoliats/Desktop/Privat/Koda/Projects/BroadwayDesign/Resources/Images/the-flatiron-building.png);
 }
 footer {
-  font-size: 11px;
+  font-size: 18px;
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
 }
